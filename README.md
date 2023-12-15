@@ -1,4 +1,4 @@
-# Date Range filter in Table Component
+# Laravel Splade Date Range filter in Table Component
 Date Range Filter Table Laravel Splade
 
 Thanks to JIMMO help me to solve this.
